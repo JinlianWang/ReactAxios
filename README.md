@@ -18,6 +18,8 @@ Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
+Sunny Notes: this project follows the steps in [Making Ajax call using React and Axios](https://medium.com/@patelarpan2010/making-ajax-call-using-react-and-axios-4071e3e9ce65) to go through creating a React project through create-react-app, and try out the Ajax call using Axios library. 
+
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
